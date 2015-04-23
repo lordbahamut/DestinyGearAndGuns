@@ -27,6 +27,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".activity.MainActivity" />
         </activity>
+<<<<<<< HEAD
         <activity
             android:name=".activity.DisplayInventoryActivity"
             android:label="@string/title_activity_dispaly_characters_inventory" >
@@ -34,6 +35,9 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".activity.DisplayCharactersActivity" />
         </activity>
+=======
+
+>>>>>>> InventoryModel
     </application>
 
 </manifest>
